@@ -1,0 +1,18 @@
+Archivo,En_disco,En_mapa,ID_en_mapa,Fs_Hz,Duracion_s,Canales,Unidades,N_segmentos,Tiene_Luz,Tiene_Oscuridad,Estado
+1S02.mat,1,1,1S02,2000,1229.865,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,10,1,1,OK
+2S02.mat,1,1,2S02,2000,1257.025,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,12,1,1,OK
+3S02.mat,1,1,3S02,2000,1483.265,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,11,1,1,OK
+4S02.mat,1,1,4S02,2000,1243.42,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,6,1,0,OK
+5S02.mat,1,1,5S02,2000,1192.51,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,10,1,1,OK
+1A26.mat,1,1,1A26,2000,1511.935,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,11,1,1,OK
+2A26.mat,1,1,2A26,2000,1257.025,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,11,1,1,OK
+3A26.mat,1,1,3A26,2000,1483.265,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,12,1,1,OK
+4A26.mat,1,1,4A26,2000,1402.475,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,11,1,1,OK
+5A26.mat,1,1,5A26,2000,1290.375,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,9,1,1,OK
+1S09.mat,1,1,1S09,2000,1189.55,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,11,1,1,OK
+2S09.mat,1,1,2S09,2000,1538.425,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,12,1,1,OK
+3S09.mat,1,1,3S09,2000,1387.785,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,11,1,1,OK
+4S09.mat,1,1,4S09,2000,1508.285,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,12,1,1,OK
+5S09.mat,1,1,5S09,2000,1290.12,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,11,1,1,OK
+6S09.mat,1,1,6S09,2000,891.4,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,11,1,1,OK
+7S09.mat,1,1,7S09,2000,1241.54,EEG (.5 - 35 Hz) | EOG (.05 - 35 Hz) | EOG (.05 - 35 Hz),micro V | mV | mV,14,1,1,OK

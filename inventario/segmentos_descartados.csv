@@ -1,0 +1,11 @@
+ID,Archivo,Momento,Iluminacion,Grupo,Fase,Orden,Inicio_s,Fin_s,Duracion_observada_s,Fuente_limites
+1S02,1S02.mat,despues_luz,Luz,Despues,Pendulo,1,NaN,NaN,NaN,
+4S02,4S02.mat,despues_luz,Luz,Despues,OjosCerrados,1,NaN,NaN,NaN,
+4S02,4S02.mat,despues_luz,Luz,Despues,Pendulo,1,NaN,NaN,NaN,
+4S02,4S02.mat,durante_oscuridad,Oscuridad,Durante,Exposicion,2,NaN,NaN,NaN,
+4S02,4S02.mat,despues_oscuridad,Oscuridad,Despues,OjosCerrados,2,NaN,NaN,NaN,
+4S02,4S02.mat,despues_oscuridad,Oscuridad,Despues,Pendulo,2,NaN,NaN,NaN,
+5S02,5S02.mat,antes,Basal,Basal,OjosCerrados,0,NaN,NaN,NaN,
+5A26,5A26.mat,despues_luz,Luz,Despues,OjosCerrados,1,NaN,NaN,NaN,
+5A26,5A26.mat,despues_luz,Luz,Despues,Pendulo,1,NaN,NaN,NaN,
+5S09,5S09.mat,antes,Basal,Basal,OjosCerrados,0,NaN,NaN,NaN,

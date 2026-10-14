@@ -1,0 +1,17 @@
+Variable,Prueba,Contraste,n_pares,Mediana_cambio,Q1,Q3,p_Wilcoxon,Nota
+AlphaRel,OjosCerrados,despues_luz - antes,14,0.0023102152587402,-0.0896486333761131,0.047275990411753,0.625732421875,
+AlphaRel,OjosCerrados,despues_oscuridad - antes,15,-0.00296000282272676,-0.0691087741630242,0.0389514772409983,0.890380859375,
+AlphaRel,OjosCerrados,despues_oscuridad - despues_luz,13,0.0206404894541516,-0.00717535325588425,0.0523286239367744,0.068115234375,exploratorio (orden fijo luz->oscuridad)
+ThetaRel,OjosCerrados,despues_luz - antes,14,-0.00419328555673238,-0.0305342942475924,0.0363527689436215,0.9515380859375,
+ThetaRel,OjosCerrados,despues_oscuridad - antes,15,-0.00789334099750386,-0.0205918953273216,0.0154719700125815,0.76153564453125,
+ThetaRel,OjosCerrados,despues_oscuridad - despues_luz,13,-0.00806346861260022,-0.0520163136107544,0.0054993721014255,0.19091796875,exploratorio (orden fijo luz->oscuridad)
+BetaRel,OjosCerrados,despues_luz - antes,14,0.0283904087048377,-0.0199386139629453,0.0831811009665533,0.153076171875,
+BetaRel,OjosCerrados,despues_oscuridad - antes,15,0.0375214058923366,-0.0349872244766899,0.0737035277063563,0.33026123046875,
+BetaRel,OjosCerrados,despues_oscuridad - despues_luz,13,-0.00736469474377206,-0.0532937800775896,0.0122141384266692,0.375732421875,exploratorio (orden fijo luz->oscuridad)
+PendH_p2p_uV,Pendulo,despues_luz - antes,14,-37.367043788877,-64.500951189234,-14.9198541767814,0.020263671875,
+PendH_p2p_uV,Pendulo,despues_oscuridad - antes,16,20.7488195996255,-16.861538771354,56.9933963484355,0.469113152435454,
+PendH_p2p_uV,Pendulo,despues_oscuridad - despues_luz,14,53.9119522777997,10.143917794145,127.907909463806,0.0040283203125,exploratorio (orden fijo luz->oscuridad)
+AlphaRel,Exposicion,durante_oscuridad - durante_luz,16,0.00414361868552018,-0.0171134815255908,0.020977111373393,0.917631593467009,exploratorio (orden fijo luz->oscuridad)
+ThetaRel,Exposicion,durante_oscuridad - durante_luz,16,-0.0058902895192729,-0.0207522051327299,0.0173146682916374,0.501447471487074,exploratorio (orden fijo luz->oscuridad)
+BetaRel,Exposicion,durante_oscuridad - durante_luz,16,-0.017819608211765,-0.0447082080749037,0.000798826374983755,0.133729892864518,exploratorio (orden fijo luz->oscuridad)
+Parpadeos_min,Exposicion,durante_oscuridad - durante_luz,16,0.098089464317885,-1.18752553387427,1.57503075098061,0.717380888414321,exploratorio (orden fijo luz->oscuridad)
